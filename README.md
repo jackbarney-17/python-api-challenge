@@ -1,1 +1,3 @@
 # python-api-challenge
+
+### This repository is for the Python API assignment as a part of the UC Berkeley Extension Data Analytics Bootcamp. It contains two parts, the first of which having to do with using Python and the openweathermap.org API to extract information pertaining to attributes of a given location's weather such as temperature, humidity, cloudiness, wind speed, and others. The second part of the assignment has to do with utilizing the analysis in Part One to create a map with the closest hotel to previosuly established "ideal weather" locations using Python and Google Places API. 
